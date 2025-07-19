@@ -1,0 +1,10 @@
+torch                # Motor de deep learning con soporte CUDA
+torchvision          # Dataset utils y transformaciones para imágenes
+timm                 # Para cargar Vision Transformer como teacher
+numpy                # Operaciones numéricas
+matplotlib           # Gráficos de precisión, pérdida y resultados
+scikit-learn         # Métricas (accuracy, matriz de confusión, clasificación report)
+seaborn              # Visualización avanzada (matriz de confusión)
+Pillow               # Procesamiento de imágenes (PIL)
+ultralytics          # YOLO (v8)
+    
