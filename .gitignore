@@ -1,0 +1,14 @@
+# Ignorar datasets y carpetas
+Dataset de prueba/
+Final_Training_Data/
+modelos_vid_env/
+
+# Ignorar modelos pesados
+*.pth
+
+# Archivos temporales y cache
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+.DS_Store
